@@ -6,22 +6,22 @@ const therapeuticAreas = [
   {
     name: "Oncology",
     image: " website.imge/oncology.jpeg",
-    link: "/Oncology ",
+    to: "/Oncology ",
   },
   {
     name: "Hematology",
     image: "website.imge/hematology.jpeg",
-    link: "/Hematology",
+    to: "/Hematology",
   },
   {
     name: "Neurology",
     image: "website.imge/neurology.jpeg",
-    link: "/Neurology",
+    to: "/Neurology",
   },
   {
     name: "Rare Disease",
     image: "website.imge/rare.jpeg",
-    link: "/Raredisease",
+    to: "/Raredisease",
   },
 ];
 
@@ -64,14 +64,15 @@ export default function TherapeuticAreas() {
 
       {/* Button */}
       <div className="text-center mt-12">
-        <a
-          href="/medicines-directory"
+        <Link
+          to="/medicines-directory"
           className="inline-block bg-blue-100 hover:bg-blue-200 text-black font-semibold text-lg px-8 py-3 rounded-xl shadow transition cursor-pointer"
         >
           Full Medicines Directory
-        </a>
+        </Link>
       </div>
     </section>
   );
 }
+
 
