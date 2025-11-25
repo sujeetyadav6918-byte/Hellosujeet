@@ -9,7 +9,7 @@ const PRODUCTS = [
      {
         title: " Uplizna (Inebilizumab-cdon) ",
         information: "Injection: 100 mg/10 mL (10 mg/mL) solution in a single-dose vial ",
-        image: " src/assets/Raredisease/UPLIZNA-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Raredisease/UPLIZNA-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -17,7 +17,7 @@ const PRODUCTS = [
        {
         title: "Strensiq (Asfotase alfa) ",
         information: "Injection: 80 mg/0.8 mL, 40 mg/mL, 28 mg/0.7 mL, or 18 mg/0.45 mL solution in single-use vials",
-        image: "src/assets/Raredisease/Strensiq-Asfotase-alfa-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/Strensiq-Asfotase-alfa-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -25,7 +25,7 @@ const PRODUCTS = [
        {
         title: "Tavneos (Avacopan) ",
         information: "Dosage Form & Strength: Capsules: 10 mg",
-        image: " src/assets/Raredisease/imgpsh_fullsize_anim-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/imgpsh_fullsize_anim-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -33,7 +33,7 @@ const PRODUCTS = [
        {
         title: "Skytrofa (Lonapegsomatropin-tcgd) ",
         information: "injection: 3mg/3.6mg/4.3mg/5.2mg/6.3mg/7.6mg/9.1mg/11mg/13.3 mg",
-        image: "src/assets/Raredisease/Skytrofa-medicine-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/Skytrofa-medicine-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -41,7 +41,7 @@ const PRODUCTS = [
        {
         title: "Nexviazyme (Avalglucosidase alfa-ngpt ",
         information: " Strength: 100 mg Lyophilized Powder for Injection",
-        image: " src/assets/Raredisease/Nexviazyme-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/Nexviazyme-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -49,7 +49,7 @@ const PRODUCTS = [
        {
         title: "Evkeeza (Evinacumab-dgnb) ",
         information: "Injection: 345 mg/2.3 mL (150 mg/mL) and 1,200 mg/8 mL (150 mg/mL) ",
-        image: " src/assets/Raredisease/web-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
+        image: " Raredisease/web-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
         link:"#"
         
     
@@ -57,7 +57,7 @@ const PRODUCTS = [
        {
         title: "Nulibry (Fosdenopterin) ",
         information: "injection: 9.5 mg of fosdenopterin as a lyophilized powder or cake in a single-dose vial for",
-        image: "src/assets/Raredisease/Nulibry-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp ",
+        image: "Raredisease/Nulibry-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp ",
         link:"#"
         
     
@@ -65,7 +65,7 @@ const PRODUCTS = [
        {
         title: "Welireg (Belzutifan) ",
         information: " Strength: Tablets: 40 mg",
-        image: " src/assets/Raredisease/Welireg-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
+        image: " Raredisease/Welireg-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
         link:"#"
         
     
@@ -73,7 +73,7 @@ const PRODUCTS = [
        {
         title: " Xiaflex (Collagenase Clostridium Histolyticum)",
         information: " Single-use glass vials containing 0.9 mg",
-        image: " src/assets/Raredisease/XIAFLEX-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/XIAFLEX-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -81,7 +81,7 @@ const PRODUCTS = [
        {
         title: "Mepsevii (Vestronidase alfa-vjbk) ",
         information: "Injection: 10 mg/5 mL (2 mg/mL) in a single-dose vial ",
-        image: " src/assets/Raredisease/Mepsevii-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/Mepsevii-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -89,7 +89,7 @@ const PRODUCTS = [
        {
         title: "Symdeko (Tezacaftor/Ivacaftor & Ivacaftor) ",
         information: "Strength: 100 mg/150 mg and 150 mg ",
-        image: "src/assets/Raredisease/Symdeko-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/Symdeko-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -97,7 +97,7 @@ const PRODUCTS = [
        {
         title: " Pegvaliase-pqpz",
         information: "njection: 2.5 mg/0.5 mL, 10 mg/0.5 mL, & 20 mg/mL in a single-dose",
-        image: " src/assets/Raredisease/Palynziq-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/Palynziq-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -105,7 +105,7 @@ const PRODUCTS = [
        {
         title: "Onpattro (Patisiran) ",
         information: "Lipid Complex Injection: 10 mg/5 mL (2 mg/mL) in a single-dose vial",
-        image: "src/assets/Raredisease/Untitled-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/Untitled-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -113,7 +113,7 @@ const PRODUCTS = [
        {
         title: "Galafold (Migalastat) ",
         information: "Dosage Form & Strength: Capsules: 123 mg",
-        image: "src/assets/Raredisease/galafold-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/galafold-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -121,7 +121,7 @@ const PRODUCTS = [
        {
         title: "Diacomit (Stiripentol) ",
         information: "Capsule and Sachets: 250 mg/500 mg ",
-        image: "src/assets/Raredisease/01-NORMAL-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: "Raredisease/01-NORMAL-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link:"#"
         
     
@@ -129,7 +129,7 @@ const PRODUCTS = [
        {
         title: " Takhzyro (Lanadelumab)",
         information: "Injection: 300 mg/2 mL (150 mg/mL) solution in a single-dose vial",
-        image: "src/assets/Raredisease/Takhzyro-Takeda-1-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: "Raredisease/Takhzyro-Takeda-1-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link:"#"
         
     
@@ -137,7 +137,7 @@ const PRODUCTS = [
        {
         title: " Orfadin (Nitisinone)",
         information: "Capsules: 2 mg, 5 mg, 10 mg, 20 mg.",
-        image: " src/assets/Raredisease/medicine-0001-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/medicine-0001-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -145,7 +145,7 @@ const PRODUCTS = [
        {
         title: "Trikafta (elexacaftor, tezacaftor and ivacaftor ",
         information: "Tablets: 100mg/50mg/75mg and 150mg, 50mg/25mg/37.5mg and 75mg",
-        image: " src/assets/Raredisease/Trikafta-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Raredisease/Trikafta-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link:"#"
         
     
@@ -153,7 +153,7 @@ const PRODUCTS = [
        {
         title: " Spinraza (Nusinersen)",
         information: "strength: 12 mg/5 mL (2.4 mg/mL) in a single-dose vial",
-        image: " src/assets/Raredisease/Spinraza-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Raredisease/Spinraza-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link:"#"
         
     
@@ -162,7 +162,7 @@ const PRODUCTS = [
         {
         title: "Amondys 45 (Casimersen) ",
         information: "Injection: 100 mg/2 mL in a Single-Dose Vial",
-        image: "src/assets/Raredisease/Exondys-51-Eteplirsen-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp ",
+        image: "Raredisease/Exondys-51-Eteplirsen-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp ",
         link:"#"
         
     
@@ -171,7 +171,7 @@ const PRODUCTS = [
         {
         title: " Voxzogo (Vosoritide)",
         information: "Injection: 0.4 mg, 0.56 mg, or 1.2 mg lyophilized powder in a single-dose",
-        image: "src/assets/Raredisease/Voxzogo-4-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/Voxzogo-4-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -180,7 +180,7 @@ const PRODUCTS = [
         {
         title: " TEPEZZA (teprotumumab-trbw)",
         information: "Injection: 500 mg lyophilized powder in a single-dose vial",
-        image: " src/assets/Raredisease/tepezza-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Raredisease/tepezza-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -188,7 +188,7 @@ const PRODUCTS = [
        {
         title: "Isturisa (Osilodrostat) ",
         information: "Strength: Tablets: 1 mg, 5 mg, and 10 mg",
-        image: "src/assets/Raredisease/isturisa-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/isturisa-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -204,7 +204,7 @@ const PRODUCTS = [
        {
         title: " Viltepso (Viltolarsen)",
         information: "Injection: 250 mg/5 mL (50 mg/mL) ",
-        image: "src/assets/Raredisease/Viltepso-Viltolarsen-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp ",
+        image: "Raredisease/Viltepso-Viltolarsen-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp ",
         link:"#"
         
     
@@ -236,7 +236,7 @@ const PRODUCTS = [
        {
         title: "Prevymis (Letermovir) ",
         information: "Tablet: 240 mg; 480 mg & Injection: 240 mg/12 mL (20 mg/mL) or 480 mg/24 mL (20 mg/mL) in a single-dose vial ",
-        image: "src/assets/Raredisease/PREVYMIS-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Raredisease/PREVYMIS-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -252,7 +252,7 @@ const PRODUCTS = [
       {
         title: "Strength: vial of 2.5mg,5mg and 10mg ",
         information: "Strength: single-dose vial.",
-        image: " src/assets/Raredisease/RADICAVA-30-mg-rc8hc84882gnm6243zn7jbxoubdvuoayz9ikb8p5j8.webp",
+        image: " Raredisease/RADICAVA-30-mg-rc8hc84882gnm6243zn7jbxoubdvuoayz9ikb8p5j8.webp",
         link:"#"
         
     

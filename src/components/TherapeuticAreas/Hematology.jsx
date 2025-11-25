@@ -8,7 +8,7 @@ const PRODUCTS = [
     {
         title: "Rezlidhia (Olutasidenib))",
         information: " Capsules: 150 mg",
-        image: "src/assets/Hematology/Rezlidhia-Olutasidenib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Rezlidhia-Olutasidenib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -16,92 +16,92 @@ const PRODUCTS = [
       {
         title: "Jaypirca(pirtobrutinib)",
         information: "Tablets: 50 mg, 100 mg ",
-        image: "src/assets/Hematology/Jaypircapirtobrutinib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Jaypircapirtobrutinib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Jesduvroq (Daprodustat)",
         information: "Tablets: 1 mg, 2 mg, 4 mg, 6 mg, and 8 mg",
-        image: "src/assets/Hematology/Jesduvroq-Daprodustat-250-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Jesduvroq-Daprodustat-250-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Columvi (Glofitamab-gxbm)",
         information: "Injection: 2.5 mg/2.5 mL (1 mg/mL) and 10 mg/10 mL (1 mg/mL) in a single-dose vial  ",
-        image: "src/assets/Hematology/Columvi-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Columvi-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Feraccru (Ferric Maltol)",
         information: " Strength: Capsules: 30 mg",
-        image: "src/assets/Hematology/Feraccru-fresh-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Hematology/Feraccru-fresh-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Evrysdi (Risdiplam)",
         information: "Tablets: 5 mg & Oral Solution: 0.75 mg/mL",
-        image: "src/assets/Hematology/Evrysdi-Risdiplam-rc8hc922ewhxxs0qyi1u3tp5fp992depbe61sinrd0.webp",
+        image: "Hematology/Evrysdi-Risdiplam-rc8hc922ewhxxs0qyi1u3tp5fp992depbe61sinrd0.webp",
 
         link: "#"
       },
       {
         title: "AndexxaOndexxya",
         information: "Injection: 200 mg lyophilized powder in single-use vials ",
-        image: "src/assets/Hematology/Andexxa-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Hematology/Andexxa-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Loqtorzi (toripalimab-tpzi)",
         information: "Injection: 240 mg/6 mL (40 mg/mL) solution in a single-dose vial ",
-        image: "src/assets/Hematology/Loqtorzi-toripalimab-tpzi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Loqtorzi-toripalimab-tpzi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Evrenzo (Roxadustat)",
         information: " Tablets: 20 mg, 50 mg, 70 mg, 100 mg, and 150 mg ",
-        image: "src/assets/Hematology/Evrenzo-Tablets-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Evrenzo-Tablets-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Ninlaro (Ixazomib)",
         information: "Capsules: 4 mg, 3 mg, and 2.3 mg",
-        image: "src/assets/Hematology/Ninlaro-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Ninlaro-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Cablivi(Caplacizumab-yhdp)",
         information: "injection: 11 mg as a lyophilized powder in a single-dose vial.",
-        image: "src/assets/Hematology/Cablivi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Hematology/Cablivi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Rezurock (Belumosudil)",
         information: "Tablet: 200 mg",
-        image: "src/assets/Hematology/Rezurock-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
+        image: "Hematology/Rezurock-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
         link: "#"
       },
       {
         title: "Empaveli (Pegcetacoplan)",
         information: " Injection: 1,080 mg/20 mL (54 mg/mL) in a single-dose vial",
-        image: "src/assets/Hematology/Empaveli-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Empaveli-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Idhifa (Enasidenib)",
         information: "Tablets: 50 mg or 100 mg",
-        image: "src/assets/Hematology/Idhifa-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Idhifa-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Besponsa (Inotuzumab Ozogamicin)",
         information: "Injection: 0.9 mg as a white to off-white lyophilized powder ",
-        image: "src/assets/Hematology/Besponsa-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: "Hematology/Besponsa-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Tibsovo (Ivosidenib)",
         information: "Strength: Tablets: 250 mg",
-        image: "src/assets/Hematology/TIBSOVO-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/TIBSOVO-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
@@ -113,25 +113,25 @@ const PRODUCTS = [
       {
         title: "Xospata (Gilteritinib)",
         information: "Strength: Tablets: 40 mg.",
-        image: "src/assets/Hematology/xospata-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/xospata-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Asparlas (Calaspargase pegol-mknl)",
         information: "Injection: 3,750 units/5 mL (750 units/mL) in a single-dose vial ",
-        image: "src/assets/Hematology/asparlas-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/asparlas-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Polivy (Polatuzumab Vedotin-piiq) ",
         information: "injection: 30 mg or 140 mg of polatuzumab vedotin-piiq as a lyophilized powder in a single-dose vial",
-        image: "src/assets/Hematology/POLIVY-250-1-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/POLIVY-250-1-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Reblozyl (Luspatercept–aamt)",
         information: "injection: 25mg/75mg lyophilized powder in a single-dose vial for reconstitution",
-        image: "src/assets/Hematology/reblozyl-1-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: "Hematology/reblozyl-1-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link: "#"
       },
       {
@@ -149,7 +149,7 @@ const PRODUCTS = [
       {
         title: "Zynlonta (loncastuximab tesirine)",
         information: " Strength: Injection: 10 mg",
-        image: "src/assets/Hematology/zynlonta-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/zynlonta-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -161,25 +161,25 @@ const PRODUCTS = [
       {
         title: "Exkivity (Mobocertinib)",
         information: "Strength: Capsules: 40 mg",
-        image: "src/assets/Hematology/Exkivity-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/Exkivity-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Tukysa (Tucatinib)",
         information: "Tablets: 50mg/150mg",
-        image: "src/assets/Hematology/tuksya-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/tuksya-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Scemblix (Asciminib)",
         information: "Tablets: 20 mg/40 mg",
-        image: "src/assets/Hematology/scemblix-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp",
+        image: "Hematology/scemblix-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp",
         link: "#"
       },
       {
         title: "Besremi (Ropeginterferon",
         information: "Injection: 500 mcg/mL solution in a single-dose prefilled syringe ",
-        image: "src/assets/Hematology/Besremi-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/Besremi-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -191,19 +191,19 @@ const PRODUCTS = [
       {
         title: "Inqovi (Decitabine and Cedazuridine))",
         information: "Tablets: 35 mg Decitabine and 100 mg",
-        image: "src/assets/Hematology/Inqovi-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/Inqovi-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Blenrep (Belantamab Mafodotin-blmf)",
         information: " Strength: Injection: 100mg/Vial",
-        image: "src/assets/Hematology/Blenrep-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/Blenrep-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Monjuvi (Tafasitamab-cxix)",
         information: "Injection: 200 mg as Lyophilized Powder in Single Dose Vial for Reconstitution",
-        image: "src/assets/Hematology/Monjuvi-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/Monjuvi-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -215,49 +215,49 @@ const PRODUCTS = [
       {
         title: "Calquence (Acalabrutinib)",
         information: "Strength: Capsules: 100 mg",
-        image: "src/assets/Hematology/Calquence-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Calquence-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "MYLOTARG 5 mg",
         information: "Strength:single-unit of 5 mg ",
-        image: "src/assets/Hematology/MYLOTARG-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/MYLOTARG-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Aliqopa (Copanlisib)",
         information: "injection: 60 mg as a lyophilized solid in single-dose vial",
-        image: "src/assets/Hematology/ALIQOPA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/ALIQOPA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Brentuximab Vedotin",
         information: "Strength: 50 mg.",
-        image: "src/assets/Hematology/adcetrisa-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/adcetrisa-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "AGRYLIN",
         information: "Strength: 0.5 mg and 1 mg ",
-        image: "src/assets/Hematology/AGRYLIN-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/AGRYLIN-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Atriance (Nelarabine)",
         information: " Strength: Injection: 250 mg/50 mL (5 mg/mL)",
-        image: "src/assets/Hematology/Atriance-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/Atriance-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "BLINCYTO 35/38.5 mcg",
         information: "Strength: 35 mcg | 38.5 Single-Dose Vial",
-        image: "src/assets/Hematology/BLINCYTO-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/BLINCYTO-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "ONCASPAR",
         information: "Strength: Units/5 mL solution in a single-use vial.",
-        image: "src/assets/Hematology/oncaspar-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/oncaspar-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
@@ -280,7 +280,7 @@ const PRODUCTS = [
       {
         title: "Ponatinib",
         information: "Tablets: 10 mg/15 mg/30 mg/45 mg",
-        image: "src/assets/Hematology/Ponatinib-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Ponatinib-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
             {
@@ -293,28 +293,28 @@ const PRODUCTS = [
             {
         title: "KYPROLIS",
         information: "injection: 10 mg, 30 mg, or 60 mg lyophilized powder in a single-dose vial for reconstitution",
-        image: "src/assets/Hematology/KYPROLIS-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/KYPROLIS-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
             {
         title: "MABCAMPATH 30 mg",
         information: "Strength: 30 mg/1 mL single use vial",
-        image: "src/assets/Hematology/MABCAMPATH-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Hematology/MABCAMPATH-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
             {
         title: "VENCLEXTA",
         information: "Strength: 10 mg, 50 mg and 100 mg tablets",
-        image: "src/assets/Hematology/Venclexta-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: "Hematology/Venclexta-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
 
             {
         title: "SOLIRIS 300mg",
         information: "Strength: 30 mL of 10 mg/mL",
-        image: "src/assets/Hematology/solris-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp",
+        image: "Hematology/solris-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp",
         link: "#"
       },
 

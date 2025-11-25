@@ -5,22 +5,22 @@ import React from "react";
 const therapeuticAreas = [
   {
     name: "Oncology",
-    image: "/website.imge/image2.jpg ",
+    image: " website.imge/oncology.jpeg",
     link: "/Oncology ",
   },
   {
     name: "Hematology",
-    image: "src/assets/website.imge/hematology.jpeg",
+    image: "website.imge/hematology.jpeg",
     link: "/Hematology",
   },
   {
     name: "Neurology",
-    image: "src/assets/website.imge/neurology.jpeg",
+    image: "website.imge/neurology.jpeg",
     link: "/Neurology",
   },
   {
     name: "Rare Disease",
-    image: "src/assets/website.imge/rare.jpeg",
+    image: "website.imge/rare.jpeg",
     link: "/Raredisease",
   },
 ];
@@ -65,7 +65,7 @@ export default function TherapeuticAreas() {
       {/* Button */}
       <div className="text-center mt-12">
         <a
-          to=""
+          href="/medicines-directory"
           className="inline-block bg-blue-100 hover:bg-blue-200 text-black font-semibold text-lg px-8 py-3 rounded-xl shadow transition cursor-pointer"
         >
           Full Medicines Directory

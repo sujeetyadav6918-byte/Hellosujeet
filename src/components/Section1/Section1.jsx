@@ -44,7 +44,7 @@ export default function Section1() {
               ethically for individual patient use.{' '}
             </p>
             <a
-              to="/Aboutus2"
+              href="/Aboutuss"
               className="bg-black text-white px-6 py-3 rounded shadow hover:bg-gray-900 font-serif transition  cursor-pointer"
             >
               {' '}

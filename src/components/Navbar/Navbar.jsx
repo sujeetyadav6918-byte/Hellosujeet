@@ -113,7 +113,7 @@ const Navbar = () => {
         <ul className="hidden md:flex items-center gap-6 lg:gap-8 text-sm lg:text-base font-semibold">
           <li>
             <a
-              href="/Home"
+              href="/"
               className="text-gray-800 hover:text-blue-600 transition"
             >
               HOME
@@ -231,7 +231,7 @@ const Navbar = () => {
       {open && (
         <div className="md:hidden absolute left-0 top-full w-full bg-white border-t border-gray-100 flex flex-col gap-0 shadow-xl z-40 max-h-[80vh] overflow-y-auto">
           <a
-            href="#"
+            href="/"
             className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
           >
             HOME

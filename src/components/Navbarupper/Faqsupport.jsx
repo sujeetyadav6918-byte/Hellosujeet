@@ -161,7 +161,7 @@ export default function AboutFaqPage() {
       {/* Hero Banner */}
       <div className="hero-banner relative w-full h-[340px] flex items-center justify-center overflow-hidden mb-[-55px]">
         <img
-          src="src/assets/website.imge/image6.jpg"
+          src="website.imge/image6.jpg"
           alt="About Us Hero Banner"
           className="absolute w-full h-full object-cover min-h-[220px] brightness-75"
         />

@@ -11,6 +11,7 @@ import HematologyProductsPage from './components/TherapeuticAreas/Hematology';
 import OncologyProductsPage from './components/TherapeuticAreas/Oncology';
 import RarediseaseProductsPage from './components/TherapeuticAreas/Raredisease';
 import NaurologyProductsPage from './components/Section1/Neurology';
+import MedicinesDirectory from './components/Section1/medicineDirectory';
 
 // import AboutPage from './components/Navbarupper/Aboutus';
 
@@ -22,7 +23,7 @@ const router = createBrowserRouter([
     element: <Layout />,
     children: [
       {
-        path:'/Home',
+        path:'/',
         element:<Home/>
       },
       {
@@ -58,6 +59,10 @@ const router = createBrowserRouter([
       {
         path:'/Neurology',
         element:<NaurologyProductsPage/>
+      },
+      {
+        path:'/medicines-directory',
+        element:<MedicinesDirectory/>
       }
      
       

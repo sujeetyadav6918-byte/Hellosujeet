@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 
 const images = [
-  "/website.imge/image2.jpg",
+  "/website.imge/image4.jpg","/website.imge/image1.jpg","/website.imge/image5.jpg"
 
 
 ];

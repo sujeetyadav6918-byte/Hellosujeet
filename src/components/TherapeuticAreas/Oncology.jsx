@@ -8,7 +8,7 @@ const PRODUCTS = [
   {
         title: "Lunsumio(Mosunetuzumab-axgb)",
         information: " Injection: 1 mg/mL and 30 mg/30 mL",
-        image: " src/assets/Oncologyimage/Lunsumio-Mosunetuzumab-axgb-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k (1).webp",
+        image: " Oncologyimage/Lunsumio-Mosunetuzumab-axgb-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k (1).webp",
         link:"#"
         
    
@@ -16,25 +16,25 @@ const PRODUCTS = [
       {
         title: "Krazati (adagrasib)",
         information: " It is available as Tablets: 200 mg ",
-        image: " src/assets/Oncologyimage/Krazati-adagrasib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Oncologyimage/Krazati-adagrasib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Rolvedon (Eflapegrastim-xnst)",
         information: "Injection: 13.2 mg/0.6 mL solution",
-        image: " src/assets/Oncologyimage/Rolvedon-Eflapegrastim-xnst-250-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Oncologyimage/Rolvedon-Eflapegrastim-xnst-250-1-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Orserdu (Elacestrant)",
         information: "tablets: 345 mg and 86 mg  ",
-        image: " src/assets/Oncologyimage/Orserdu-Elacestrant-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Oncologyimage/Orserdu-Elacestrant-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Ocaliva (Obeticholic Acid)",
         information: "Tablets: 5 mg, 10 mg ",
-        image: " src/assets/Oncologyimage/Ocaliva-01-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp  ",
+        image: " Oncologyimage/Ocaliva-01-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp  ",
         link: "#"
       },
       {
@@ -47,79 +47,79 @@ const PRODUCTS = [
       {
         title: "Cytalux (Pofalacianine)",
         information: "Injection: 3.2 mg/1.6 mL (2 mg/mL)  ",
-        image: " src/assets/Oncologyimage/CYTALUX-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Oncologyimage/CYTALUX-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Pylarify (Piflufolastat F18)",
         information: "Injection: a multiple-dose vial containing 37 MBq/mL to 2,960 MBq/mL (1 mCi/mL to 80 mCi/mL)",
-        image: " src/assets/Oncologyimage/Pylarify-Piflufolastat-F18-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
+        image: " Oncologyimage/Pylarify-Piflufolastat-F18-rc8hc9zwlqj89dzdt0ggobgm134ma2ifnitj9smd6s.webp",
         link: "#"
       },
       {
         title: "Truseltiq (Infigratinib)",
         information: " Capsules: 25 mg and 100 mg",
-        image: " src/assets/Oncologyimage/Truseltiq-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Oncologyimage/Truseltiq-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "ENHERTU (Trastuzumab Deruxtecan)",
         information: "injection: 100 mg lyophilized",
-        image: " src/assets/Oncologyimage/Enhertu-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Enhertu-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Mektovi (Binimetinib)",
         information: " Tablets: 15 mg",
-        image: " src/assets/Oncologyimage/mektovi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Oncologyimage/mektovi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link: "#"
       },
       {
         title: "Braftovi (Encorafenib)",
         information: "Capsules: 75 mg",
-        image: " src/assets/Oncologyimage/BRAFTOVI-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Oncologyimage/BRAFTOVI-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Libtayo (Cemiplimab-rwlc)",
         information: " Injection: 350 mg/7 mL (50 mg/mL) ",
-        image: " src/assets/Oncologyimage/lyp-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc (1).webp",
+        image: " Oncologyimage/lyp-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc (1).webp",
         link: "#"
       },
       {
         title: "Lorbrena (Lorlatinib)",
         information: "Tablets: 25 mg or 100 mg",
-        image: " src/assets/Oncologyimage/Lorbrena-250-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Lorbrena-250-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Talzenna (Talazoparib)",
         information: "Capsules: 0.25 mg, 1 mg ",
-        image: "  src/assets/Oncologyimage/Talzenn-250-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "  Oncologyimage/Talzenn-250-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Balversa (Erdafitinib)",
         information: "Dosage : 3 mg, 4 mg, & 5 mg",
-        image: " src/assets/Oncologyimage/balversa-3-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/balversa-3-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Piqray (Alpelisib)",
         information: " Tablets: 50 mg, 150 mg, & 200 mg ",
-        image: " src/assets/Oncologyimage/PIQRAY-250-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: " Oncologyimage/PIQRAY-250-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link: "#"
       },
       {
         title: "Alunbrig (Brigatinib)",
         information: "ablets in 180 mg, 90 mg, or 30 mg.",
-        image: " src/assets/Oncologyimage/Alunbrig-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Oncologyimage/Alunbrig-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Jemperli (Dostarlimab-gxly)",
         information: "Injection: 500 mg/10 mL (50 mg/mL) ",
-        image: " src/assets/Oncologyimage/Jemperli-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Jemperli-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -143,19 +143,19 @@ const PRODUCTS = [
       {
         title: "Rozlytrek (Entrectinib)",
         information: "Capsules: 100 mg and 200 mg ",
-        image: " src/assets/Oncologyimage/Rozlytrek-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: " Oncologyimage/Rozlytrek-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link: "#"
       },
       {
         title: "Tivdak (Tisotumab Vedotin-tftv)",
         information: "Injection: 40mg",
-        image: " src/assets/Oncologyimage/Actemra-Tort-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Actemra-Tort-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Ayvakit (Avapritinib)",
         information: " Tablets: 25 mg, 50 mg, 100 mg, 200 mg and 300 mg ",
-        image: " src/assets/Oncologyimage/Ayvakit-1.webp ",
+        image: " Oncologyimage/Ayvakit-1.webp ",
         link: "#"
       },
       {
@@ -167,19 +167,19 @@ const PRODUCTS = [
       {
         title: "Tukysa (Tucatinib)",
         information: "Tablets: 50mg/150mg",
-        image: " src/assets/Oncologyimage/tuksya-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Oncologyimage/tuksya-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link: "#"
       },
       {
         title: "Pemazyre (Pemigatinib).",
         information: "Tablets: 4.5mg, 9mg & 13.5mg",
-        image: " src/assets/Oncologyimage/Pemazyre-Pemigatinib-250-rc8hc922ewhxxs0qyi1u3tp5fp992depbe61sinrd0.webp",
+        image: " Oncologyimage/Pemazyre-Pemigatinib-250-rc8hc922ewhxxs0qyi1u3tp5fp992depbe61sinrd0.webp",
         link: "#"
       },
       {
         title: "Trodelvy (Sacituzumab govitecan-hziy)",
         information: "injection: 200 mg , 180 mg",
-        image: " src/assets/Oncologyimage/Trodelvy-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Trodelvy-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -191,25 +191,25 @@ const PRODUCTS = [
       {
         title: "Retevmo (Selpercatinib)",
         information: "Capsules: 40/80 mg",
-        image: " src/assets/Oncologyimage/Retevmo-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Retevmo-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Zepzelca (Lurbinectedin)",
         information: "injection: 4 mg Lyophilized",
-        image: " src/assets/Oncologyimage/Zepzelca-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Zepzelca-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Gavreto (Pralsetinib)",
         information: "Capsules: 100mg",
-        image: " src/assets/Oncologyimage/Gavreto-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Gavreto-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "MARGENZA (Margetuximab-cmkb)",
         information: "250mg/10mL (25mg/mL) ",
-        image: " src/assets/Oncologyimage/MARGENZA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/MARGENZA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -221,13 +221,13 @@ const PRODUCTS = [
       {
         title: "Danyelza (Naxitamab-gqgk)",
         information: "Injection: 40 mg/10 mL (4 mg/mL)",
-        image: " src/assets/Oncologyimage/Danyelza-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Danyelza-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Zejula (Niraparib)",
         information: "Strength: 100 mg Capsules",
-        image: " src/assets/Oncologyimage/Zejula-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Zejula-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
@@ -245,7 +245,7 @@ const PRODUCTS = [
       {
         title: "NERLYNX 40mg",
         information: "Strength: 40 mg tablet",
-        image: " src/assets/Oncologyimage/NERLYNX-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc (1).webp",
+        image: " Oncologyimage/NERLYNX-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc (1).webp",
         link: "#"
       },
       {
@@ -257,30 +257,30 @@ const PRODUCTS = [
       {
         title: "Caprelsa (Vandetanib)",
         information: "Strength: Tablets: 100 mg and 300 mg",
-        image: " src/assets/Oncologyimage/CAPRELSA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/CAPRELSA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Celsentri (Maraviroc)",
         information: "Tablets: 150 mg and 300 mg",
-        image: " src/assets/Oncologyimage/CELSENTRI-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/CELSENTRI-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Vistide (Cidofovir)",
         information: "Injection: 375mg/5mL ",
-        image: " src/assets/Oncologyimage/CIDOFOVIR-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/CIDOFOVIR-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },{
         title: "IBRANCE 125mg",
         information: "Strength: 125mg Capsules",
-        image: " src/assets/Oncologyimage/IBRANCE-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/IBRANCE-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
       {
         title: "Cyramza (Ramucirumab)",
         information: "njection: 100 mg/10 mL (10 mg/mL) or 500 mg/50 mL (10 mg/mL) ",
-        image: " src/assets/Oncologyimage/CYRAMZA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/CYRAMZA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
             {
@@ -293,21 +293,21 @@ const PRODUCTS = [
             {
         title: "ENTEREG 12mg",
         information: "Strength:12 mg Capsule.",
-        image: " src/assets/Oncologyimage/ENTEREG-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/ENTEREG-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
             {
         title: "ERIVEDGE 150mg",
         information: "Strength: 150mg Capsule",
-        image: " src/assets/Oncologyimage/ERIVEDGE-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/ERIVEDGE-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
             {
         title: "Lynparza(Olaparib)",
         information: "Tablets: 100 mg, 150 mg",
-        image: " src/assets/Oncologyimage/LYNPARZA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/LYNPARZA-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
@@ -321,14 +321,14 @@ const PRODUCTS = [
             {
         title: "MEKINIST 2mg",
         information: "Strength: 2mg capsules",
-        image: " src/assets/Oncologyimage/MEKINIST-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/MEKINIST-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
             {
         title: "Lysodren 500mg",
         information: "Tablets: 500 mg",
-        image: " src/assets/Oncologyimage/Lysodren-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: " Oncologyimage/Lysodren-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 
@@ -349,7 +349,7 @@ const PRODUCTS = [
             {
         title: "Zelboraf 240mg",
         information: "ablets: 240 mg",
-        image: " src/assets/Oncologyimage/Zelboraf-240mg-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp",
+        image: " Oncologyimage/Zelboraf-240mg-rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp",
         link: "#"
       },
 
@@ -363,7 +363,7 @@ const PRODUCTS = [
             {
         title: "ZYDELIG",
         information: "Strength: 100mg Tablets.",
-        image: "src/assets/Oncologyimage/ZYDELIG-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
+        image: "Oncologyimage/ZYDELIG-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp",
         link: "#"
       },
 

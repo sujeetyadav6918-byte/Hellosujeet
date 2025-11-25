@@ -4,42 +4,42 @@ import React from "react";
 const drugs = [
   {
     name: "Atriance (Nelarabine) Injection",
-    image: "/website.imge/image2.jpg ",
+    image: "website.imge/atriance-nelarabine-300x300.webp",
     link: "service-oncology.html",
   },
   {
     name: "Venclexta (Venetoclax) Tablets",
-    image: "src/assets/website.imge/venclexta-venetoclax-tablets-300x300.jpeg",
+    image: "website.imge/venclexta-venetoclax-tablets-300x300.jpeg",
     link: "service-hematology.html",
   },
   {
     name: "Ojjaara (Momelotinib) Tablets",
-    image: "src/assets/website.imge/OJJAARA-300x300.jpg",
+    image: "website.imge/OJJAARA-300x300.jpg",
     link: "service-neurology.html",
   },
   {
     name: "Zegfrovy (Sunvozertinib)",
-    image: "src/assets/website.imge/sunvozertinib-01-1000x1000.jpg.webp",
+    image: "website.imge/sunvozertinib-01-1000x1000.jpg.webp",
     link: "service-neurology.html",
   },
   {
     name: "Sephience (Sepiapterin)",
-    image: "src/assets/website.imge/Sephience8.webp",
+    image: "website.imge/Sephience8.webp",
     link: "service-oncology.html",
   },
   {
     name: "Mulpleta (Lusutrombopag)",
-    image: "src/assets/website.imge/Mulpleta-Lusutrombopag-3-MG-Tablets.webp",
+    image: "website.imge/Mulpleta-Lusutrombopag-3-MG-Tablets.webp",
     link: "service-hematology.html",
   },
   {
     name: "Lunsumio (Mosunetuzumab-axgb)",
-    image: "src/assets/website.imge/Lunsumio-Mosunetuzumab-axgb-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+    image: "website.imge/Lunsumio-Mosunetuzumab-axgb-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
     link: "service-oncology.html",
   },
   {
     name: "Krazati (Adagrasib)",
-    image: "src/assets/website.imge/Krazati-adagrasib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+    image: "website.imge/Krazati-adagrasib-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
     link: "service-hematology.html",
   },
   // ...rest of your drugs

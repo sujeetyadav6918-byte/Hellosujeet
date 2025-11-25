@@ -9,7 +9,7 @@ const PRODUCTS = [
      {
         title: "Radicut (Edaravone) ",
         information: "Injection: 30 mg/100 mL in single-dose vials",
-        image: " src/assets/Neurology/Radicut-Edaravone-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
+        image: " Neurology/Radicut-Edaravone-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp",
         link:"#"
         
     
@@ -17,7 +17,7 @@ const PRODUCTS = [
       {
         title: " Rilutek (Riluzole)",
         information: " Strength: Tablets: 50 mg",
-        image: " src/assets/Neurology/Rilutek-riluzole-Neuro-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Neurology/Rilutek-riluzole-Neuro-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -26,7 +26,7 @@ const PRODUCTS = [
       {
         title: "Ajovy (Fremanezumab-vfrm) ",
         information: "Strength: Injections: 225 mg/1.5 mL ",
-        image: "src/assets/Neurology/Ajovy-fremanezumab-vfrm-Neuro-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp  ",
+        image: "Neurology/Ajovy-fremanezumab-vfrm-Neuro-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp  ",
         link:"#"
         
     
@@ -42,7 +42,7 @@ const PRODUCTS = [
       {
         title: " Fycompa (Perampanel)",
         information: "Strength: 2 mg/4 mg/6 mg/8 mg/10 mg/12 mg, and 0.5 mg/mL",
-        image: "src/assets/Neurology/Fycompa-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp  ",
+        image: "Neurology/Fycompa-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp  ",
         link:"#"
         
     
@@ -50,7 +50,7 @@ const PRODUCTS = [
       {
         title: "Azstarys ",
         information: "Capsules: 26.1 mg/5.2 mg, 39.2 mg/7.8 mg, 52.3 mg/10.4 mg",
-        image: " src/assets/Neurology/AZSTARYS-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Neurology/AZSTARYS-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -58,7 +58,7 @@ const PRODUCTS = [
       {
         title: "Qelbree (Viloxazine) ",
         information: "Capsules: 100 mg, 150 mg and 200 mg",
-        image: " src/assets/Neurology/Qelbree-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Neurology/Qelbree-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -66,7 +66,7 @@ const PRODUCTS = [
       {
         title: "Lybalvi (Olanzapine and Samidorphan) ",
         information: ": Tablets: 5 mg/10 mg, 10 mg/10 mg, 15 mg/10 mg and 20 mg/10 mg",
-        image: " src/assets/Neurology/Lybalvi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
+        image: " Neurology/Lybalvi-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k.webp ",
         link:"#"
         
     
@@ -74,7 +74,7 @@ const PRODUCTS = [
       {
         title: "Aduhelm (Aducanumab-avwa) ",
         information: "Injection: 170 mg/1.7 mL (100 mg/mL) and 300 mg/3 mL (100 mg/mL) ",
-        image: "src/assets/Neurology /Aduhelm--rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp ",
+        image: "Neurology /Aduhelm--rc8hcctf68n387vacjocdsqzt8qpx5tmnwrzpmi6o4.webp ",
         link:"#"
         
     
@@ -106,7 +106,7 @@ const PRODUCTS = [
       {
         title: "STELARA ",
         information: "Strength: 45 mg/0.5 ml and 90 mg/1 ml vial.",
-        image: " src/assets/Neurology/Stelara-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: " Neurology/Stelara-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link:"#"
         
     
@@ -114,7 +114,7 @@ const PRODUCTS = [
       {
         title: "HUMIRA ",
         information: "Strength: 40 mg (0.8 mL) Injection.",
-        image: "src/assets/Neurology/humira-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
+        image: "Neurology/humira-rc8hcbvkzelswlwni19ptazj7uvcpgpwbs4i8cjkuc.webp ",
         link:"#"
         
     
