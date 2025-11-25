@@ -6,22 +6,22 @@ const therapeuticAreas = [
   {
     name: "Oncology",
     image: " website.imge/oncology.jpeg",
-    to: "/Oncology ",
+    Link: "/Oncology ",
   },
   {
     name: "Hematology",
     image: "website.imge/hematology.jpeg",
-    to: "/Hematology",
+    Link: "/Hematology",
   },
   {
     name: "Neurology",
     image: "website.imge/neurology.jpeg",
-    to: "/Neurology",
+    Link: "/Neurology",
   },
   {
     name: "Rare Disease",
     image: "website.imge/rare.jpeg",
-    to: "/Raredisease",
+    Link: "/Raredisease",
   },
 ];
 
@@ -74,5 +74,6 @@ export default function TherapeuticAreas() {
     </section>
   );
 }
+
 
 
