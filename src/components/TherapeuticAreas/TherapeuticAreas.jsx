@@ -6,22 +6,22 @@ const therapeuticAreas = [
   {
     name: "Oncology",
     image: " website.imge/oncology.jpeg",
-    Link: "/Oncology ",
+    link: "/Oncology ",
   },
   {
     name: "Hematology",
     image: "website.imge/hematology.jpeg",
-    Link: "/Hematology",
+    link: "/Hematology",
   },
   {
     name: "Neurology",
     image: "website.imge/neurology.jpeg",
-    Link: "/Neurology",
+    link: "/Neurology",
   },
   {
     name: "Rare Disease",
     image: "website.imge/rare.jpeg",
-    Link: "/Raredisease",
+    link: "/Raredisease",
   },
 ];
 
@@ -42,9 +42,9 @@ export default function TherapeuticAreas() {
       {/* Grid Section */}
       <div className="mt-12 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
         {therapeuticAreas.map((area, index) => (
-          <a
+          <Link
             key={index}
-            href={area.link}
+            to={area.link}
             className="group block rounded-xl overflow-hidden shadow-lg transition-all duration-300 hover:shadow-2xl bg-white"
           >
             <div className="relative w-full h-60">
@@ -58,7 +58,7 @@ export default function TherapeuticAreas() {
             <h3 className="mt-4 mb-4 text-center font-semibold text-blue-700 text-lg tracking-wide">
               {area.name.toUpperCase()}
             </h3>
-          </a>
+          </Link>
         ))}
       </div>
 
@@ -74,6 +74,7 @@ export default function TherapeuticAreas() {
     </section>
   );
 }
+
 
 
 
