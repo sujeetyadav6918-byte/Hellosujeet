@@ -1,26 +1,25 @@
-
 import React from "react";
+import { Link } from "react-router-dom"; // Don't forget this import!
 
-// Update these with your own image paths or import statements if needed!
 const therapeuticAreas = [
   {
     name: "Oncology",
-    image: " website.imge/oncology.jpeg",
-    link: "/Oncology ",
+    image: "/website.imge/oncology.jpeg",
+    link: "/Oncology",
   },
   {
     name: "Hematology",
-    image: "website.imge/hematology.jpeg",
+    image: "/website.imge/hematology.jpeg",
     link: "/Hematology",
   },
   {
     name: "Neurology",
-    image: "website.imge/neurology.jpeg",
+    image: "/website.imge/neurology.jpeg",
     link: "/Neurology",
   },
   {
     name: "Rare Disease",
-    image: "website.imge/rare.jpeg",
+    image: "/website.imge/rare.jpeg",
     link: "/Raredisease",
   },
 ];
@@ -30,7 +29,7 @@ export default function TherapeuticAreas() {
     <section className="container mx-auto px-4 py-16">
       {/* Section Title */}
       <div className="text-center">
-        <h2 className="text-3xl md:text-4xl font-bold text-black-200">
+        <h2 className="text-3xl md:text-4xl font-bold text-blue-700">
           Our Therapeutic Areas
         </h2>
         <p className="mt-4 text-lg text-gray-600 max-w-3xl mx-auto">
@@ -74,7 +73,3 @@ export default function TherapeuticAreas() {
     </section>
   );
 }
-
-
-
-
