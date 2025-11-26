@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { Outlet } from 'react-router-dom';
 import Navbar from '../Navbar/Navbar';
 import FooterSection from '../Footersection/Footersection';
@@ -9,10 +8,8 @@ import FooterSection from '../Footersection/Footersection';
 function Layout() {
   return (
 <div>
-      <Navbar />
-    
-        <Outlet />
-      
+      <Navbar />    
+      <Outlet />      
       <FooterSection/>
     </div>
   );

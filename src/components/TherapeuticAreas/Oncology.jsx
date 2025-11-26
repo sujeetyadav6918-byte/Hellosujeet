@@ -9,7 +9,7 @@ const PRODUCTS = [
         title: "Lunsumio(Mosunetuzumab-axgb)",
         information: " Injection: 1 mg/mL and 30 mg/30 mL",
         image: " Oncologyimage/Lunsumio-Mosunetuzumab-axgb-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k (1).webp",
-        link:"#"
+        link:"/Lunsumio"
         
    
       },
@@ -381,7 +381,7 @@ export default function OncologyProductsPage() {
 
   return (
     <div className="min-h-screen bg-[#f4f7fa] pb-16">
-      <div className="max-w-4xl w-[96%] mx-auto bg-white rounded-2xl shadow-lg mt-20 px-6 py-8">
+     <div className="max-w-4xl w-[96%] mx-auto bg-white rounded-2xl mt-4 shadow-lg px-6 py-8">
         <h1 className="text-center text-blue-900 text-4xl font-bold mb-6 tracking-wide">ONCOLOGY</h1>
         {/* Search Box */}
         <div className="flex justify-center mb-7 gap-0">

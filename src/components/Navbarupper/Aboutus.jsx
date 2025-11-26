@@ -42,15 +42,17 @@ const VALUES = [
 
 export default function AboutPage() {
   return (
-    <main>
+    <main className="bg-cover bg-no-repeat bg-center min-h-screen"
+  style={{ backgroundImage: "url('website.imge/image6.jpg')" }}>
      
       <motion.section
-        className="py-16 md:py-24 bg-white"
-        initial={{ opacity: 0, y: 60 }}
-        whileInView={{ opacity: 1, y: 0 }}
-        viewport={{ once: true, amount: 0.5 }}
-        transition={{ duration: 0.8, delay: 0.1 }}
-      >
+  className="py-16 md:py-24 bg-cover bg-no-repeat bg-center"
+  style={{ backgroundImage: "url('/website.imge/aboutbg.avif')" }}
+  initial={{ opacity: 0, y: 60 }}
+  whileInView={{ opacity: 1, y: 0 }}
+  viewport={{ once: true, amount: 0.5 }}
+  transition={{ duration: 0.8, delay: 0.1 }}
+>
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row items-center gap-12">
             {/* Left: Story */}
@@ -68,10 +70,10 @@ export default function AboutPage() {
                 Rare Pharma Supply was founded by Himanshu Tiwari, a specialist with over 8 years of dedicated experience in Named Patient Programs and rare disease medicine. Over his career, he witnessed a recurring, heartbreaking problem: patients in India, diagnosed with rare and life-threatening diseases, were unable to access the very medicines that could save them. The path was blocked by bureaucratic hurdles, opaque pricing, and a lack of reliable information.
               </p>
               <p className="text-gray-600 text-lg mb-4 leading-relaxed">
-                He saw families exhaust their savings navigating a confusing system, often with no guarantee of success. The emotional and financial toll was immense. It was from this experience that a simple, powerful idea was born: to create a service that would act as a patient's trusted advocate.
+                {/* He saw families exhaust their savings navigating a confusing system, often with no guarantee of success. The emotional and financial toll was immense. It was from this experience that a simple, powerful idea was born: to create a service that would act as a patient's trusted advocate. */}
               </p>
               <p className="text-gray-600 text-lg leading-relaxed">
-                In 2020, he launched Rare Pharma Supply not just as a business, but as a mission-driven organization dedicated to building a bridge between patients and the global supply of life-saving medicines. We are that bridge, built on a foundation of unwavering trust, absolute transparency, and profound compassion.
+                {/* In 2020, he launched Rare Pharma Supply not just as a business, but as a mission-driven organization dedicated to building a bridge between patients and the global supply of life-saving medicines. We are that bridge, built on a foundation of unwavering trust, absolute transparency, and profound compassion. */}
               </p>
             </motion.div>
             {/* Right: Image */}
@@ -83,7 +85,7 @@ export default function AboutPage() {
               transition={{ duration: 0.7, delay: 0.2 }}
             >
               <img
-                src="https://images.unsplash.com/photo-1521737711867-e3b97375f902?q=80&w=1887&auto=format&fit=crop"
+                src="public/website.imge/image7.avif"
                 alt="A diverse team collaborating"
                 className="rounded-lg shadow-xl w-full h-auto max-h-[430px] object-cover"
                 onError={e => { e.target.src = "https://placehold.co/600x400/E2E8F0/4A5568?text=Our+Team"; }}

@@ -13,7 +13,11 @@ export default function Section1() {
   }, []);
 
   return (
-    <div className="w-full min-h-screen flex flex-col bg-white">
+    // <div className="w-full  flex flex-col bg-white">
+    <div
+  className="w-full flex flex-col bg-white bg-cover bg-no-repeat bg-center"
+  style={{ backgroundImage: "url('/website.imge/image')" }}
+>
       {/* Top Centered Heading */}
       <div className="w-full text-center pt-12 pb-8 px-4" data-aos="fade-down">
         <h2 className="text-3xl md:text-4xl font-serif font-medium mb-5">

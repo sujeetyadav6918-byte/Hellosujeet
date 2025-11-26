@@ -7,7 +7,7 @@ const megaMenu = [
     title: 'ONCOLOGY',
     color: 'blue',
     items: [
-      { name: 'Lunsumio (Mosunetuzumab-axgb)', link: '#' },
+      { name: 'Lunsumio (Mosunetuzumab-axgb)', link: '/Lunsumio' },
       { name: 'Krazati (adagrasib)', link: '#' },
       { name: 'Rolvedon (Eflapegrastim-xnst)', link: '#' },
       { name: 'Orserdu (Elacestrant)', link: '#' },
@@ -15,35 +15,154 @@ const megaMenu = [
       { name: 'Portrazza (Necitumumab)', link: '#' },
       { name: 'Cytalux (Pofalacanine)', link: '#' },
       { name: 'Pylarify (Piflufolastat F18)', link: '#' },
+       { name: "Truseltiq (Infigratinib)", link: "#" },
+  { name: "Enhertu (Trastuzumab)", link: "#" },
+  { name: "Mektovi (Binimetinib)", link: "#" },
+  { name: "Braftovi (Encorafenib)", link: "#" },
+  { name: "Libtayo (Cemiplimab)", link: "#" },
+  { name: "Lorbrena (Lorlatinib)", link: "#" },
+  { name: "Talzenna (Talazoparib)", link: "#" },
+  { name: "Balversa (Erdafitinib)", link: "#" },
+  { name: "Piqray (Alpelisib)", link: "#" },
+  { name: "Alunbrig (Brigatinib)", link: "#" },
+  { name: "Jemperli (Dostarlimab-gxly)", link: "#" },
+  { name: "Tepmetko (Tepotinib)", link: "#" },
+  { name: "COSELA (Trilaciclib)", link: "#" },
+  { name: "Fotivda (Tivozanib)", link: "#" },
+  { name: "Rozlytrek (Entrectinib)", link: "#" },
+  { name: "Tivdak® (tisotumab vedotin-tftv)", link: "#" },
+  { name: "Ayvakit (Avapritinib)", link: "#" },
+  { name: "Tazverik (Tazemetostat)", link: "#" },
+  { name: "Tukysa (Tucatinib)", link: "#" },
+  { name: "Pemazyre (Pemigatinib)", link: "#" },
+  { name: "Trodelvy (Sacituzumab govitecan-hziy)", link: "#" },
+  { name: "Tabrecta (Capmatinib)", link: "#" },
+  { name: "Retevmo (Selpercatinib)", link: "#" },
+  { name: "Zepzelca (Lurbinectedin)", link: "#" },
+  { name: "Margenza (margetuximab-cmkb)", link: "#" },
+  { name: "Orgovyx (relugolix)", link: "#" },
+  { name: "DANYELZA (naxitamab-gqgk)", link: "#" },
+  { name: "Zejula (Niraparib)", link: "#" },
+  { name: "Verzenio (Abemaciclib)", link: "#" },
+  { name: "Tecentriq (Atezolizumab)", link: "#" },
+  { name: "Nerlynx (Neratinib)", link: "#" },
+  { name: "Yervoy", link: "/one" },
     ],
   },
   {
     title: 'HEMATOLOGY',
     color: 'emerald',
     items: [
-      { name: 'Rezlidhia (Olutasidenib)', link: '#' },
-      { name: 'Jaypirca (pirtobrutinib)', link: '#' },
-      { name: 'Jesduvroq (Daprodustat)', link: '#' },
-      { name: 'Columvi (Glofitamab-gxbm)', link: '#' },
-    ],
-  },
+       { name: "Jaypirca (pirtobrutinib)", link: "#" },
+  { name: "Jesduvroq (Daprodustat)", link: "#" },
+  { name: "Columvi (Glofitamab-gxbm)", link: "#" },
+  { name: "Feraccru (Ferric Maltol)", link: "#" },
+  { name: "Evrysdi (Risdiplam)", link: "#" },
+  { name: "Andexxa (Ondexxya)", link: "#" },
+  { name: "Loqtorzi (toripalimab-tpzi)", link: "#" },
+  { name: "Evrenzo (Roxadustat)", link: "#" },
+  { name: "Ninlaro (Ixazomib)", link: "#" },
+  { name: "Cablivi (Caplacizumab-yhdp)", link: "#" },
+  { name: "Rezurock (Belumosudil)", link: "#" },
+  { name: "Empaveli (Pegcetacoplan)", link: "#" },
+  { name: "Idhifa (Enasidenib)", link: "#" },
+  { name: "Besponsa (Inotuzumab Ozogamicin)", link: "#" },
+  { name: "Tibsovo (Ivosidenib)", link: "#" },
+  { name: "Poteligeo (Mogamulizumab-kpkc)", link: "#" },
+  { name: "Xospata (Gilteritinib)", link: "#" },
+  { name: "Asparlas (Calaspargase pegol-mknl)", link: "#" },
+  { name: "Polivy (Polatuzumab Vedotin-piiqa)", link: "#" },
+  { name: "Reblozyl (Luspatercept-aamt)", link: "#" },
+  { name: "Ukoniq (Umbralisib)", link: "#" },
+  { name: "Pepaxto (Melphalan)", link: "#" },
+  { name: "Zynlonta (Loncastuximab Tesirine-Ipyl)", link: "#" },
+  { name: "Rylaze", link: "#" },
+  { name: "Exkivity (Mobocertinib)", link: "#" },
+  { name: "Besremi (Ropeginterferon alfa-2b-njft)", link: "#" },
+  { name: "SARCLISA (isatuximab-irfc)", link: "#" },
+  { name: "Inqovi (decitabine and cedazuridine)", link: "#" },
+  { name: "Blenrep (Belantamab Mafodotin-blmf)", link: "#" },
+  { name: "Monjuvi (Tafasitamab-cxix)", link: "#" },
+  { name: "TAFINLAR (Dabrafenib)", link: "#" },
+  { name: "CALQUENCE (Acalabrutinib)", link: "#" },
+  { name: "MYLOTARG (Gemtuzumab)", link: "#" },
+  { name: "Aliqopa (Copanlisib)", link: "#" },
+  { name: "Brentuximab Vedotin", link: "#" },
+  { name: "AGRYLIN (Anagrelide Hydrochloride)", link: "#" },
+  { name: "ATRIANCE (Nelarabine)", link: "#" },
+  { name: "BLINCYTO (Blinatumomab)", link: "#" },
+  { name: "ONCASPAR (Pegaspargase)", link: "#" },
+  { name: "ERWINAZE (Asparaginase Erwinia Chrysanthemi)", link: "#" },
+  { name: "FOLOTYN (Pralatrexate)", link: "#" },
+  { name: "TREOSULFAN (Treosulfan)", link: "#" },
+  { name: "Ponatinib", link: "#" },
+  { name: "NPLATE (Romiplostim)", link: "#" },
+  { name: "KYPROLIS (Carfilzomib)", link: "#" },
+  { name: "MABCAMPATH (Alemtuzumab)", link: "#" },
+  { name: "VENCLEXTA (Venetoclax)", link: "#" },
+  { name: "SOLIRIS (eculizumab)", link: "#" },
+  { name: "SYNRIBO (Omacetaxine Mepesuccinate)", link: "#" },
+  { name: "ALKERAN (Melphalan)", link: "#" },
+  { name: "FARYDAK (Panobinostat)", link: "#" },
+  { name: "BOSULIF (Bosutinib)", link: "#" },
+  { name: "ELDISINE (Vindesine Sulphate)", link: "#" },
+  { name: "Ixazomib Citrate", link: "#" },
+  { name: "TEPADINA (Thiotepa)", link: "#" },
+  { name: "ZOLINZA (Vorinostat)", link: "#" },
+      
+    ],},
   {
     title: 'NEUROLOGY',
     color: 'purple',
     items: [
-      { name: 'Radicut (Edaravone)', link: '#' },
-      { name: 'Rilutek (Riluzole)', link: '#' },
-      { name: 'Ajovy (Fremanezumab-vfrm)', link: '#' },
-      { name: 'Emgality (Galcanezumab)', link: '#' },
+       { name: "Rilutek (Riluzole)", link: "#" },
+  { name: "Ajovy (Fremanezumab-vfrm)", link: "#" },
+  { name: "Emgality (Galcanezumab)", link: "#" },
+  { name: "Azstarys (Serdexmethylphenidate and Dexmethylphenidate)", link: "#" },
+  { name: "Qelbree (Viloxazine)", link: "#" },
+  { name: "Lybalvi (Olanzapine and Samidorphan)", link: "#" },
+  { name: "Aduhelm (aducanumab-avwa)", link: "#" },
+  { name: "NUEDEXTA (Dextromethorphan Hydrobromide)", link: "#" },
+  { name: "ILARIS (Canakinumab)", link: "#" },
+  { name: "GLIOLAN (Aminolevulinic acid hydrochloride)", link: "#" },
+  { name: "STELARA (Ustekinumab)", link: "#" },
+  { name: "HUMIRA (Adlimumab)", link: "#" },
     ],
   },
   {
-    title: 'NEPHROLOGY',
+    title: 'RARE DISEASES',
     color: 'amber',
     items: [
-      { name: 'Korsuva (Difelikefalin)', link: '#' },
-      { name: 'Kerendia (Finerenone)', link: '#' },
-      { name: 'Ultomiris (Ravulizumab)', link: '#' },
+       { name: "Strensiq (Asfotase alfa)", link: "#" },
+  { name: "Tavneos (Avacopan)", link: "#" },
+  { name: "Skytrofa (Lonapegsomatropin-tcgd)", link: "#" },
+  { name: "Nexviazyme (Avalglucosidase alfa-ngp)", link: "#" },
+  { name: "Evkeeza (Evinacumab-dgnb)", link: "#" },
+  { name: "Nulibry (Fosdenopterin)", link: "#" },
+  { name: "Welireg (Belzutifan)", link: "#" },
+  { name: "Qlex (Collagenase Clostridium Histolyticum)", link: "#" },
+  { name: "Mepsevii (Vestronidase alfa-vjbk)", link: "#" },
+  { name: "Symdeko (Tezacaftor/Ivacaftor & Ivacaftor)", link: "#" },
+  { name: "Palynziq (Pegvaliase-pqpz)", link: "#" },
+  { name: "Onpattro (Patisiran)", link: "#" },
+  { name: "Galafold (Migalastat)", link: "#" },
+  { name: "Diacomit (Stiripentol)", link: "#" },
+  { name: "Takhzyro (Lanadelumab)", link: "#" },
+  { name: "Orfadin (Nitisinone)", link: "#" },
+  { name: "Trikafta (elexacaftor, tezacaftor and ivacaftor)", link: "#" },
+  { name: "Spinraza (Nusinersen)", link: "#" },
+  { name: "Amondys 45 (Casimersen)", link: "#" },
+  { name: "Tepezza (Teprotumumab-trbw)", link: "#" },
+  { name: "Isturisa (Osilodrostat)", link: "#" },
+  { name: "Koselugo (Selumetinib)", link: "#" },
+  { name: "VILTEPSO (Viltolarsen)", link: "#" },
+  { name: "XERMELO (Telotristat)", link: "#" },
+  { name: "BRINUERA (Cerliponase alfa)", link: "#" },
+  { name: "MEPSEVII (Vestronidase)", link: "#" },
+  { name: "PARSABIV (Etelcalcetide)", link: "#" },
+  { name: "RHOPRESSA (Netarsudil)", link: "#" },
+      
+    
     ],
   },
 ];
@@ -236,12 +355,16 @@ const Navbar = () => {
           >
             HOME
           </a>
-          <a
-            href="/Aboutuss"
-            className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition "
-          >
-            ABOUT US
-          </a>
+          <Link
+  to="/Aboutuss"
+  className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
+  onClick={() => setOpen(false)}
+>
+  ABOUT US
+</Link>
+
+   
+         
           {/* Mega menu collapse */}
           <div className="border-b border-gray-100">
             <button
@@ -291,24 +414,27 @@ const Navbar = () => {
               </div>
             )}
           </div>
-          <a
-            href="/Blog"
+          <Link
+            to="/Blog"
             className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
+              onClick={() => setOpen(false)}
           >
             BLOG
-          </a>
-          <a
-            href="/Faqsupport"
+          </Link>
+          <Link
+            to="/Faqsupport"
             className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
+              onClick={() => setOpen(false)}
           >
             FAQ & SUPPORT
-          </a>
-          <a
-            href="/Rarecontact"
+          </Link>
+          <Link
+            to="/Rarecontact"
             className="px-6 py-3 font-semibold text-gray-800 hover:bg-gray-50 transition"
+              onClick={() => setOpen(false)}
           >
             CONTACT US
-          </a>
+          </Link>
         </div>
       )}
     </div>
