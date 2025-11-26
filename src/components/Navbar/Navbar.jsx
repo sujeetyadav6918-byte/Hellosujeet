@@ -410,8 +410,8 @@ const Navbar = () => {
               </div>
             )}
           </div>
-          <a
-            href="/Blog"
+          <Link
+            to="/Blog"
             className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
               onClick={() => setOpen(false)}
           >
@@ -438,4 +438,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
