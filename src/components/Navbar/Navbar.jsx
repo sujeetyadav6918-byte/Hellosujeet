@@ -7,7 +7,7 @@ const megaMenu = [
     title: 'ONCOLOGY',
     color: 'blue',
     items: [
-      { name: 'Lunsumio (Mosunetuzumab-axgb)', link: '/Lunsumio' },
+      { name: 'Lunsumio (Mosunetuzumab-axgb)', link: 'Lunsumio' },
       { name: 'Krazati (adagrasib)', link: '#' },
       { name: 'Rolvedon (Eflapegrastim-xnst)', link: '#' },
       { name: 'Orserdu (Elacestrant)', link: '#' },
@@ -355,12 +355,12 @@ const Navbar = () => {
           >
             HOME
           </a>
-          <a
-            href="/Aboutuss"
+          <Link
+            to="/Aboutuss"
             className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition "
           >
             ABOUT US
-          </a>
+          </Link>
           {/* Mega menu collapse */}
           <div className="border-b border-gray-100">
             <button
@@ -438,5 +438,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
 
