@@ -355,16 +355,12 @@ const Navbar = () => {
           >
             HOME
           </a>
-          <Link
-  to="/Aboutuss"
-  className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
-  onClick={() => setOpen(false)}
->
-  ABOUT US
-</Link>
-
-   
-         
+          <a
+            href="/Aboutuss"
+            className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition "
+          >
+            ABOUT US
+          </a>
           {/* Mega menu collapse */}
           <div className="border-b border-gray-100">
             <button
@@ -414,8 +410,8 @@ const Navbar = () => {
               </div>
             )}
           </div>
-          <Link
-            to="/Blog"
+          <a
+            href="/Blog"
             className="px-6 py-3 font-semibold text-gray-800 border-b border-gray-100 hover:bg-gray-50 transition"
               onClick={() => setOpen(false)}
           >
@@ -442,3 +438,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
