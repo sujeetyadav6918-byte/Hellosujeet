@@ -13,6 +13,8 @@ import RarediseaseProductsPage from './components/TherapeuticAreas/Raredisease';
 import NaurologyProductsPage from './components/Section1/Neurology';
 import MedicinesDirectory from './components/Section1/medicineDirectory';
 import LunsumioPage from './components/Medicineinformation/Lunsumio';
+import ScrollToTop from './components/Scrolltotop/Scrolltotop';
+
 
 // import AboutPage from './components/Navbarupper/Aboutus';
 
@@ -76,7 +78,7 @@ const router = createBrowserRouter([
   // If you need, you can define other layouts here for auth, admin, etc.
 ]);
 
-  return <RouterProvider router={router} />;
+  return <ScrollToTop/>, <RouterProvider router={router} />;
 }
 
 export default App;

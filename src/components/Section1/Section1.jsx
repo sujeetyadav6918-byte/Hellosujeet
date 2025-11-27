@@ -19,11 +19,11 @@ export default function Section1() {
   style={{ backgroundImage: "url('/website.imge/image')" }}
 >
       {/* Top Centered Heading */}
-      <div className="w-full text-center pt-12 pb-8 px-4" data-aos="fade-down">
-        <h2 className="text-3xl md:text-4xl font-serif font-medium mb-5">
+      <div className="w-full text-center pt-1 pb-1 px-1" data-aos="fade-down">
+        <h2 className="text-3xl md:text-4xl font-serif font-medium mb-0">
           {' '}
-          We are renowned traders suppliers and exporters of specialty
-          medicines.
+          {/* We are renowned traders suppliers and exporters of specialty
+          medicines. */}
         </h2>
       </div>
 
