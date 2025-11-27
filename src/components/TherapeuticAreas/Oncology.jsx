@@ -9,7 +9,7 @@ const PRODUCTS = [
         title: "Lunsumio(Mosunetuzumab-axgb)",
         information: " Injection: 1 mg/mL and 30 mg/30 mL",
         image: " Oncologyimage/Lunsumio-Mosunetuzumab-axgb-250-rc8hcaxqskkikzy0niv38t82mgzzhrm5znh0r2kz0k (1).webp",
-        link:"/Lunsumio"
+        link:"Lunsumio"
         
    
       },
@@ -431,3 +431,4 @@ export default function OncologyProductsPage() {
     </div>
   );
 }
+
