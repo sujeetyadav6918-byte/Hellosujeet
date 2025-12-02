@@ -4,7 +4,6 @@ function Breadcrumbs() {
   const location = useLocation();
   const parts = location.pathname.split("/").filter(Boolean);
 
-  // Agar home page ("/") hai → kuch mat dikhao
   if (location.pathname === "/") return null;
 
   const toTitle = (str) =>
@@ -20,10 +19,14 @@ function Breadcrumbs() {
         const path = "/" + parts.slice(0, idx + 1).join("/");
         const isLast = idx === parts.length - 1;
 
+        // special case: /product/:id -> "product" ko link mat banao
+        const isProductParent =
+          seg.toLowerCase() === "product" && parts.length === 2 && idx === 0;
+
         return (
           <span key={path}>
             <span className="mx-1 text-gray-400">»</span>
-            {isLast ? (
+            {isLast || isProductParent ? (
               <span className="text-gray-700">{toTitle(seg)}</span>
             ) : (
               <Link to={path} className="text-blue-600 hover:underline">

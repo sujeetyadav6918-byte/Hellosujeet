@@ -12,9 +12,8 @@ import OncologyProductsPage from './components/TherapeuticAreas/Oncology';
 import RarediseaseProductsPage from './components/TherapeuticAreas/Raredisease';
 import NaurologyProductsPage from './components/Section1/Neurology';
 import MedicinesDirectory from './components/Section1/medicineDirectory';
-import LunsumioPage from './components/Medicineinformation/Lunsumio';
 import ScrollToTop from './components/Scrolltotop/Scrolltotop';
-
+import ProductPage from './components/Productall/Productpage';
 
 // import AboutPage from './components/Navbarupper/Aboutus';
 
@@ -66,12 +65,11 @@ const router = createBrowserRouter([
         element: <MedicinesDirectory />
       },
       {
-        path: "Lunsumio",
-        element: <LunsumioPage />
+        path:"product/:productId",
+        element: <ProductPage />
       }
   
-      
-     
+
       
     ],
   },

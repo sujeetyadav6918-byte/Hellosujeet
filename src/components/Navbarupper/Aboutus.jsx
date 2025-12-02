@@ -85,7 +85,7 @@ export default function AboutPage() {
               transition={{ duration: 0.7, delay: 0.2 }}
             >
               <img
-                src="public/website.imge/image7.avif"
+                src="website.imge/image7.avif"
                 alt="A diverse team collaborating"
                 className="rounded-lg shadow-xl w-full h-auto max-h-[430px] object-cover"
                 onError={e => { e.target.src = "https://placehold.co/600x400/E2E8F0/4A5568?text=Our+Team"; }}

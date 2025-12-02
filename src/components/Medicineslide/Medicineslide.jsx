@@ -1,11 +1,13 @@
 
+
 import React from "react";
+import { Link } from "react-router-dom";
 
 const drugs = [
   {
     name: "Atriance (Nelarabine) Injection",
     image: "website.imge/atriance-nelarabine-300x300.webp",
-    link: "service-oncology.html",
+    id: "lunsumio",
   },
   {
     name: "Venclexta (Venetoclax) Tablets",
@@ -61,29 +63,31 @@ export default function ImportantDrugs() {
       {/* Drug Grid */}
       {/* grid-cols-2 for small screens, grid-cols-4 at md (desktop) */}
       <div className="mt-12 grid grid-cols-2 md:grid-cols-4 gap-8">
-        {drugs.map((drug, index) => (
-          <a
-            key={index}
-            href={drug.link}
-            className="group block bg-white rounded-2xl overflow-hidden shadow-md border border-gray-100 hover:border-blue-400 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl"
-            tabIndex="0"
-          >
-            <div className="w-full aspect-[4/3] bg-gray-50 flex items-center justify-center overflow-hidden">
-              <img
-                src={drug.image}
-                alt={drug.name}
-                className="h-full w-full object-contain transition duration-300 group-hover:scale-105 group-hover:brightness-110"
-                loading="lazy"
-              />
-            </div>
-            <div className="p-4">
-              <h3 className="text-blue-700 font-semibold text-base md:text-lg leading-snug text-center">
-                {drug.name}
-              </h3>
-            </div>
-          </a>
-        ))}
+  {drugs.map((drug, index) => (
+    <Link
+      key={index}
+      to={drug.id ? `/product/${drug.id}` : "#"}
+      className="group block bg-white rounded-2xl overflow-hidden shadow-md border border-gray-100 hover:border-blue-400 transition-all duration-300 hover:-translate-y-2 hover:shadow-xl"
+      tabIndex="0"
+    >
+      <div className="w-full aspect-[4/3] bg-gray-50 flex items-center justify-center overflow-hidden">
+        <img
+          src={drug.image}
+          alt={drug.name}
+          className="h-full w-full object-contain transition duration-300 group-hover:scale-105 group-hover:brightness-110"
+          loading="lazy"
+        />
       </div>
+      <div className="p-4">
+        <h3 className="text-700 font-semibold text-base md:text-lg leading-snug text-center">
+          {drug.name}
+        </h3>
+      </div>
+    </Link>
+  ))}
+</div>
+
+ 
     </section>
   );
 }

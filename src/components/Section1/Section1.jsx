@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 
 // Replace these with your actual images if local
 const imageMain = 'website.imge/image5.jpg';
-const imageOverlay = 'src/assets/website.imge/Oncology-1030x579.jpg ';
+const imageOverlay = ' website.imge/image6.jpg';
 
 export default function Section1() {
   useEffect(() => {
@@ -47,13 +47,13 @@ export default function Section1() {
               We provide expert guidance for importing medicines legally and
               ethically for individual patient use.{' '}
             </p>
-            <a
-              href="/Aboutuss"
+            <Link
+              to="Aboutuss"
               className="bg-black text-white px-6 py-3 rounded shadow hover:bg-gray-900 font-serif transition  cursor-pointer"
             >
               {' '}
               ABOUT US{' '}
-            </a>
+            </Link>
           </div>
         </div>
 

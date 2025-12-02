@@ -31,10 +31,10 @@ const leaders = [
 const LeadershipSection = () => (
   <div className="container mx-auto px-6">
     <h2
-      className="text-3xl md:text-4xl font-bold text-blue-700 text-center mb-12"
+      className="text-3xl md:text-4xl font-bold text-700 text-center mb-12"
       style={{ padding: 50 }}
     >
-      Meet Our Leadership
+  Leadership
     </h2>
     <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-5xl mx-auto">
       {leaders.map((leader, idx) => (
