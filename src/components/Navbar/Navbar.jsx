@@ -446,7 +446,7 @@ const Navbar = () => {
                           <h4
                             className={`font-bold ${colors.title} text-sm uppercase tracking-wide mb-3`}
                           >
-                            {cat.title} {" "}
+                            {cat.title} {" "}
                           </h4>
                          {" "}
                           <ul className="space-y-2">

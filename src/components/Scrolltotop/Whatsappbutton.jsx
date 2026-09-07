@@ -1,11 +1,11 @@
 import React from "react";
 
 export default function WhatsAppButton() {
-  const whatsappNumber = "919768640067"; // apna full international number
+  const whatsappNumber = "919768640067";
   const message = "Hi Rare Pharma Supply, I need help with medicine.";
   const encoded = encodeURIComponent(message);
 
-  const url = `https://wa.me/${919768640067}?text=${"Hi Rare Pharma Supply,need help with medicine"}`;
+  const url = `https://wa.me/${whatsappNumber}?text=${encoded}`;
 
   return (
     <a

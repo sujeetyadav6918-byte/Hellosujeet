@@ -202,7 +202,7 @@ export default function AboutFaqPage() {
       </div>
       {/* FAQ Sections */}
       <div className="max-w-3xl mx-auto px-2">
-        {FAQ_SECTIONS.map((section, sIdx) => (
+        {FAQ_SECTIONS.map((section) => (
           <div className="container1 mb-10" key={section.title}>
             <h1 className="text-blue-900 text-3xl font-extrabold mb-5 mt-12">
               {section.title}

@@ -207,7 +207,7 @@ Indian Pharma Network is able to source the LUNSUMIO (Cancer Treatment Medicines
 ];
 
 // Auto-scroll slider
-function autoScroll(ref, interval = 3000) {
+function useAutoScroll(ref, interval = 3000) {
   useEffect(() => {
     const slider = ref.current;
     let idx = 0;
@@ -221,7 +221,7 @@ function autoScroll(ref, interval = 3000) {
     }, interval);
 
     return () => clearInterval(intervalId);
-  }, [ref]);
+  }, [ref, interval]);
 }
 
 const contactInfo = (
@@ -249,7 +249,7 @@ const LunsumioPage = () => {
   const [activeTab, setActiveTab] = useState(0);
   const [showPopup, setShowPopup] = useState(false);
 
-  autoScroll(scrollRef);
+  useAutoScroll(scrollRef);
 
   return (
     <div className="bg-white min-h-screen px-4 py-8">
@@ -339,7 +339,7 @@ const LunsumioPage = () => {
             className="flex overflow-x-auto space-x-6 pb-2"
             style={{ scrollBehavior: "smooth" }}
           >
-            {relatedProducts.map((prod, idx) => (
+            {relatedProducts.map((prod) => (
               <a
                 key={prod.name}
                 href={prod.url}

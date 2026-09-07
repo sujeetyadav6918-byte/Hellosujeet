@@ -12,18 +12,17 @@ import OncologyProductsPage from './components/TherapeuticAreas/Oncology';
 import RarediseaseProductsPage from './components/TherapeuticAreas/Raredisease';
 import NaurologyProductsPage from './components/Section1/Neurology';
 import MedicinesDirectory from './components/Section1/medicineDirectory';
-import ScrollToTop from './components/Scrolltotop/Scrolltotop';
 import ProductPage from './components/Productall/Productpage';
 
 // import AboutPage from './components/Navbarupper/Aboutus';
 
 // Router configuration
-const App = () =>{
-const router = createBrowserRouter([
-  {
-    path: '/',
-    element: <Layout />,
-    children: [
+const App = () => {
+  const router = createBrowserRouter([
+    {
+      path: '/',
+      element: <Layout />,
+      children: [
       {
         index: true, // index route for "/"
         element: <Home />
@@ -64,19 +63,16 @@ const router = createBrowserRouter([
         path: "medicines-directory",
         element: <MedicinesDirectory />
       },
-      {
-        path:"product/:productId",
-        element: <ProductPage />
-      }
-  
+        {
+          path: "product/:productId",
+          element: <ProductPage />
+        }
 
-      
-    ],
-  },
-  // If you need, you can define other layouts here for auth, admin, etc.
-]);
+      ],
+    },
+  ]);
 
-  return <ScrollToTop/>, <RouterProvider router={router} />;
-}
+  return <RouterProvider router={router} />;
+};
 
 export default App;

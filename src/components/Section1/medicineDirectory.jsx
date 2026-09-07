@@ -350,7 +350,7 @@ export default function MedicinesDirectory() {
               No medicines found for your search.
             </div>
           ) : (
-            filteredCategories.map((category, idx) => (
+            filteredCategories.map((category) => (
               <div
                 className="medicine-card bg-white p-6 rounded-xl shadow space-y-4"
                 key={category.title}
